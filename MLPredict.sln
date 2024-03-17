@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewPredict", "ReviewPredict\ReviewPredict.csproj", "{A9282F7E-C632-4007-83D2-EA2E6AC86FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9282F7E-C632-4007-83D2-EA2E6AC86FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9282F7E-C632-4007-83D2-EA2E6AC86FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9282F7E-C632-4007-83D2-EA2E6AC86FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9282F7E-C632-4007-83D2-EA2E6AC86FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFA2477-5109-4768-B77A-E8AE8AC0CD37}
+	EndGlobalSection
+EndGlobal
